@@ -1,0 +1,221 @@
+PG Programs
+PG Diploma/M.Sc. in
+Business Analytics
+M.Tech. in
+Artificial Intelligence
+PG Diploma/M.Sc. in
+Artificial Intelligence
+M.Tech. in
+Cybersecurity
+PG Diploma/M.Sc. in
+Cybersecurity
+PG Diploma/M.Sc. in
+Cloud Architecture and Security
+Get Certified
+Advanced Diploma in
+Cybersecurity and Privacy Management
+Certified
+DevOps Specialist
+Certified
+Ethical Hacker
+Certified
+Penetration Testing Professional
+Certified
+AI Engineer
+Certification in
+HR Analytics
+RACE Labs
+Consulting
+Events
+Exclusive Webinar on
+Policy as Code Automation for Multi-Cloud Security
+Sports
+REVA Cricket League 2025
+Awards
+Top 10 Women Tech Leaders India Awards
+2023
+Top 10 Women Tech Leaders India Awards
+2022
+Top 10 Women Tech Leaders India Awards
+2021
+Top 10 Women Tech Leaders India Awards
+Past Events
+Mentors
+About RACE
+Contact Us
+Book Your Free Consultation
+Analytics / Data Science
+PG Diploma/M.Sc. in
+Business Analytics
+Certification in
+HR Analytics
+Cybersecurity
+M.Tech. in
+Cybersecurity
+PG Diploma/M.Sc. in
+Cybersecurity
+Certified
+Ethical Hacker
+Certified
+Penetration Testing Professional
+Advanced Diploma in
+Cybersecurity and Privacy Management
+Artificial Intelligence
+M.Tech. in
+Artificial Intelligence
+PG Diploma/M.Sc. in
+Artificial Intelligence
+Certified
+AI Engineer
+Cloud Architecture
+PG Diploma/M.Sc. in
+Cloud Architecture and Security
+Certified
+DevOps Specialist
+Home
+»
+Certified Ethical Hacker
+Now Powered by AI
+Certified Ethical Hacker
+CEH v13
+Become a Certified Ethical Hacker with the world’s #1
+ethical hacking certification, now enhanced with cutting-edge AI capabilities.
+Start Your Journey
+Download Brochure
+Next Batch
+July 26th, 2025
+Only 12 seats left
+30 Hours
+Live Training
+Saturdays 10AM – 6PM
+₹42,000
+₹62,000
+Save ₹20,000
+Enroll Now
+Includes exam voucher
+Who is a Certified Ethical Hacker?
+A Certified Ethical Hacker is a specialist typically working in a red team environment, focused on attacking computer systems and gaining access to networks, applications, databases, and other critical data on secured systems. A C|EH® understands attack strategies, the use of creative attack vectors, and mimics the skills and creativity of malicious hackers. Unlike malicious hackers and actors, Certified Ethical Hackers operate with permission from the system owners and take all precautions to ensure the outcomes remain confidential.
+#1
+Ranked by ZDNet
+In Ethical Hacking Certifications
+Top 10
+Cybersecurity
+Certification Ranking
+4th
+Among Top 50
+Leading Cybersecurity Certifications
+Are You Missing Out on the Cybersecurity Boom?
+With 3.5 million unfilled cybersecurity jobs globally, there’s never been a better time to break into ethical hacking.
+The Problem:
+🔴
+IT jobs are rapidly disappearing
+Routine roles are being replaced by automation
+🔴
+Cybercrime is exploding
+67% surge in attacks year-over-year
+🔴
+The talent gap is real
+Urgent demand for ethical hackers across industries
+🔴
+Outdated certifications
+Theory-heavy programs lack real-world relevance
+The Solution:
+✅
+CEH v13
+The only AI-powered ethical hacking certification
+✅
+221 hands-on labs
+Real-world practical experience
+✅
+40% efficiency boost
+with AI-integrated tools
+✅
+Guaranteed job readiness
+92% hiring manager preference
+Master Real-World Hacking Skills
+Go from beginner to job-ready ethical hacker with our AI-powered curriculum
+Foundation Phase
+Build Your Security Mindset
+Introduction to Ethical Hacking
+Learn the fundamentals and key issues in information security, including the basics of ethical hacking, information security controls, relevant laws, and standard procedures.
+Footprinting and Reconnaissance
+Learn how to use the latest techniques and tools for footprinting and reconnaissance, a critical pre-attack phase of ethical hacking
+Scanning Networks
+Learn different network scanning techniques and countermeasures.
+Enumeration
+Learn various enumeration techniques, including Border Gateway Protocol (BGP) and Network File Sharing (NFS) exploits and associated countermeasures.
+Vulnerability Analysis
+Learn how to identify security loopholes in a target organization’s network, communication infrastructure, and end systems. Different types of vulnerability assessment and vulnerability assessment tools are also included.
+Attack Phase
+Master Penetration Techniques
+System Hacking
+Learn about the various system hacking methodologies used to discover system and network vulnerabilities, including steganography, steganalysis attacks, and how to cover tracks.
+Malware Threats
+Learn about different types of malware (Trojan, viruses, worms, etc.), APT and fileless malware, malware analysis procedures, and malware countermeasures.
+Sniffing
+Learn about packet sniffing techniques and their uses for discovering network vulnerabilities, plus countermeasures to defend against sniffing attacks.
+Social Engineering
+Learn social engineering concepts and techniques, including how to identify theft attempts, audit human-level vulnerabilities, and suggest social engineering countermeasures.
+Denial-of-Service
+Learn about different Denial of Service (DoS) and Distributed DoS (DDoS) attack techniques, plus the tools used to audit a target and devise DoS and DDoS countermeasures and protections.
+Advanced Phase
+Specialised Attack Vectors
+Session Hijacking
+Learn the various session-hijacking techniques used to discover network-level session management, authentication, authorization, and cryptographic weaknesses and associated countermeasures.
+Evading IDS, Firewalls, and Honeypots
+Learn about firewalls, intrusion detection systems (IDS), and honeypot evasion techniques; the tools used to audit a network perimeter for weaknesses; and countermeasures.
+Hacking Web Servers
+Learn about web server attacks, including a comprehensive attack methodology used to audit vulnerabilities in web server infrastructures and countermeasures.
+Hacking Web Applications
+Learn about web application attacks, including a comprehensive hacking methodology for auditing vulnerabilities in web applications and countermeasures.
+SQL Injection
+Learn about SQL injection attack techniques, evasion techniques, and SQL injection countermeasures.
+Modern Threats
+Next-Gen Security Challenges
+Hacking Wireless Networks
+Learn about different types of encryption, threats, hacking methodologies, hacking tools, security tools, and countermeasures for wireless networks.
+Hacking Mobile Platforms
+Learn mobile platform attack vectors, Android and iOS hacking, mobile device management, mobile security guidelines, and security tools.
+IoT Hacking
+Learn different types of Internet of Things (IoT) and operational technology (OT) attacks, hacking methodologies, hacking tools, and countermeasures.
+Cloud Computing
+Learn different cloud computing concepts, such as container technologies and serverless computing, various cloud computing threats, attacks, hacking methodologies, and cloud security techniques and tools.
+Cryptography
+Learn about encryption algorithms, cryptography tools, Public Key Infrastructure (PKI), email encryption, disk encryption, cryptography attacks, and cryptanalysis tools.
+Why Choose CEH v13?
+Join thousands of professionals who advanced their careers
+97%
+Skills Helped Organizations
+Professionals reported CEH skills helped safeguard their organizations
+95%
+Career Growth
+Chose CEH specifically for advancing their cybersecurity careers
+92%
+Hiring Manager Preference
+Hiring managers prefer CEH candidates for ethical hacking roles
+50%
+Received Promotions
+1 in every 2 professionals got promoted after completing CEH
+49+
+Job Roles Mapped
+Cybersecurity positions mapped to CEH certification in 2024
+12th
+Highest-Paying Certificate
+Ranks among top 75 highest-paying IT certifications globally
+What You Get
+EC Council iLabs and Course Materials for 6 Months
+Access to RACE LMS for curated Course Materials
+Video Recordings of all sessions
+Practice Quizzes and Assessments
+CEH Test Center at the Campus
+1 Official Exam Voucher included
+Ready to Transform Your Career?
+Secure Your Spot Now
+₹42,000
+₹62,000
+You Save ₹20,000
+🔥 Limited Time Offer – Expires in 7 days • 💳 Easy EMI options available
+🎁 Bonus for First 5 applications
+Free 1-on-1 career counseling session + Resume review by industry experts
+Secure Your Spot Now
+Fill out the form below and our career counselor will contact you

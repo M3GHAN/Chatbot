@@ -1,0 +1,35 @@
+{
+  "unified_database": {
+    "name": "complete_unified",
+    "index_path": "faiss_databases\\complete_unified_index.faiss",
+    "metadata_path": "faiss_databases\\complete_unified_metadata.pkl",
+    "total_chunks": 142,
+    "total_files": 20,
+    "pdf_files": 6,
+    "text_files": 14,
+    "pdf_chunks": 43,
+    "text_chunks": 99,
+    "files_processed": [
+      "Business Analytics Brochure - RACE - REVA University.pdf",
+      "Cloud Architecture and Security Brochure - RACE - REVA University 1.pdf",
+      "MSc Cybersecurity - September 2025 copy 1.pdf",
+      "MSc in Artificial Intelligence Sept 2025 copy.pdf",
+      "REVA RACE BA and AI Career Transition Brochure_2024  1.pdf",
+      "REVA RACE CS and CAS Career Transition Brochure_2024 1.pdf",
+      "about_full.txt",
+      "Advanced Diploma in Cybersecurity and Privacy Management_full.txt",
+      "Certified AI Engineer_full.txt",
+      "Certified DevOps Specialist with Terraform, Kubernetes, Jenkins, DevSecOps, and AIOps_full.txt",
+      "Certified Ethical Hacker_full.txt",
+      "Certified Pentesting Professional_full.txt",
+      "contact_full.txt",
+      "home_page_full.txt",
+      "M.Sc. in Business Analytics_full.txt",
+      "M.Tech. in Artificial Intelligence_full.txt",
+      "M.Tech. in Cybersecurity_full.txt",
+      "PG Diploma or M.Sc. in Artificial Intelligence_full.txt",
+      "PG Diploma or M.Sc. in Cybersecurity_full.txt",
+      "PG Diploma or M.Sc. in in Cloud Architecture_full.txt"
+    ]
+  }
+}

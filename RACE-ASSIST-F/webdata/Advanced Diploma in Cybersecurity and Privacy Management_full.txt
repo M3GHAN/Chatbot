@@ -1,0 +1,293 @@
+PG Programs
+PG Diploma/M.Sc. in
+Business Analytics
+M.Tech. in
+Artificial Intelligence
+PG Diploma/M.Sc. in
+Artificial Intelligence
+M.Tech. in
+Cybersecurity
+PG Diploma/M.Sc. in
+Cybersecurity
+PG Diploma/M.Sc. in
+Cloud Architecture and Security
+Get Certified
+Advanced Diploma in
+Cybersecurity and Privacy Management
+Certified
+DevOps Specialist
+Certified
+Ethical Hacker
+Certified
+Penetration Testing Professional
+Certified
+AI Engineer
+Certification in
+HR Analytics
+RACE Labs
+Consulting
+Events
+Exclusive Webinar on
+Policy as Code Automation for Multi-Cloud Security
+Sports
+REVA Cricket League 2025
+Awards
+Top 10 Women Tech Leaders India Awards
+2023
+Top 10 Women Tech Leaders India Awards
+2022
+Top 10 Women Tech Leaders India Awards
+2021
+Top 10 Women Tech Leaders India Awards
+Past Events
+Mentors
+About RACE
+Contact Us
+Book Your Free Consultation
+Analytics / Data Science
+PG Diploma/M.Sc. in
+Business Analytics
+Certification in
+HR Analytics
+Cybersecurity
+M.Tech. in
+Cybersecurity
+PG Diploma/M.Sc. in
+Cybersecurity
+Certified
+Ethical Hacker
+Certified
+Penetration Testing Professional
+Advanced Diploma in
+Cybersecurity and Privacy Management
+Artificial Intelligence
+M.Tech. in
+Artificial Intelligence
+PG Diploma/M.Sc. in
+Artificial Intelligence
+Certified
+AI Engineer
+Cloud Architecture
+PG Diploma/M.Sc. in
+Cloud Architecture and Security
+Certified
+DevOps Specialist
+Home
+»
+Advanced Diploma in Cybersecurity and Privacy Management
+Join India’s #1 Cybersecurity Program
+Advanced Diploma in
+Cybersecurity and Privacy Management
+A comprehensive 3-month program combining CISSP certification training, ISO27001 cybersecurity, and data privacy management. Learn from industry experts and advance your cybersecurity career.
+✅ CISSP Certification Training
+✅ Data Privacy & DPDP Law
+✅ ISO27001 Cybersecurity
+✅ 150+ Hours Live Training
+Download Brochure
+×
+Get Program Information
+Fill out the form below and we’ll send you detailed program information.
+Program Details
+Everything you need to know about the program structure and schedule
+Duration
+3 Months
+150 hours of live training
+Schedule
+Fridays: 5:00 PM to 9:00 PM
+Saturdays: 9:15 AM to 5:00 PM
+Expert Trainers
+Industry Professionals
+Real-world experience
+Program Fee
+INR 1,30,000
+$2,500
+Program Overview
+A unique Advanced Diploma combining CISSP + Cybersecurity + Data Privacy, designed to meet the evolving demands of today’s cybersecurity landscape. Our expert-led, hands-on approach ensures you gain real-world experience and up-to-date insights.
+What Makes Us Different
+✅
+Master CISSP Domains
+✅
+Develop Cybersecurity Proficiency
+✅
+Enhance Data Privacy Knowledge
+✅
+Practical Application
+✅
+Stay Current with Industry Trends
+✅
+Live Exam Practice Sessions
+Program Benefits
+🔸
+Course Materials for 6 Months
+🔸
+Access to RACE LMS for curated Course Materials
+🔸
+Video Recordings of the sessions
+🔸
+Practice Quizzes
+🔸
+Test Center at the Campus
+🔸
+Executive Alumni Status
+Program Contents
+Three major components: CISSP Toolkit + ISO27001 + Data Privacy
+CISSP Toolkit
+Master all 8 CISSP domains with comprehensive training and exam preparation
+88 Hours
+Key Features:
+✔️ 100-day Project Plan for working professionals
+✔️ Access to well-structured LMS with CISSP Videos
+✔️ Weekly Live Classes covering all 8 domains
+✔️ Inbuilt smart study guide with daily bytes
+✔️ Mobile App flexibility for learning on-the-go
+Module 1: Security and Risk Management
+Security governance principles
+Compliance requirements
+Risk management concepts
+Threat modelling
+Business continuity
+Module 2: Asset Security
+Information and asset classification
+Ownership (data owners, system owners)
+Data security controls
+Handling requirements
+Module 3: Security Architecture and Engineering
+Engineering processes using secure design
+Security models and concepts
+Security capabilities of information systems
+Physical security
+Module 4: Communication and Network Security
+Secure network architecture design
+Secure network components
+Secure communication channels
+Network attacks
+Module 5: Identity and Access Management (IAM)
+Physical and logical access control
+Identification and authentication techniques
+Identity management implementation
+Access monitoring and auditing
+Module 6: Security Assessment and Testing
+Design and validate assessment strategies
+Security control testing
+Collect security process data
+Analyze test outputs
+Module 7: Security Operations
+Investigations support and requirements
+Logging and monitoring activities
+Security operations and administration
+Disaster recovery planning
+Module 8: Software Development Security
+Security in the software development lifecycle
+Development environment security controls
+Software security effectiveness
+Secure coding guidelines
+Cybersecurity – ISO27001
+Learn industry-standard information security management systems
+32 Hours
+Module 1: Introduction
+Overview of ISO27001
+Understanding ISMS
+Risk Assessment and Management
+Gap Analysis
+Module 2: Security Controls and Procedures
+Controls Selection and Implementation
+Security Policies and Procedures
+Security Awareness & Training
+Incident Response and Business Planning
+Module 3: Auditing and Compliance
+Internal Audits
+Certification Process
+Legal and Regulatory Compliance
+Implementation of Controls and Testing
+Module 4: Incident Response Management
+Security Incident Management
+Finalizing and Documenting the ISMS
+Evaluation and Improvement
+Module 5: Case Studies
+Gap analysis workshops
+Information security policy development
+Risk assessment exercise
+Incident response planning
+Module 6: Practical and Labs
+User Access management
+Network Security
+Data Classification
+Mini Project implementation
+Data Privacy & DPDP Law
+Understand data protection regulations and privacy management
+24 Hours
+Module 1: Introduction to Data Privacy
+Overview of Data Privacy
+Key concepts: Personal data, sensitive data
+Global Data Privacy Landscape: GDPR, CCPA, HIPAA
+Module 2: Digital Personal Data Protection (DPDP) Law
+Introduction to DPDP
+Key Provisions and data protection principles
+Rights of data subjects
+Compliance Requirements and penalties
+Module 3: Data Privacy Governance
+Establishing a Data Privacy Program
+Privacy policies and procedures
+Data governance frameworks
+Building privacy-aware culture
+Module 4: Data Classification and Handling
+Data Classification schemes
+Data encryption and anonymization
+Secure data storage & transfer
+Module 5: Privacy Impact Assessments (PIAs)
+Conducting PIAs
+Identifying and mitigating privacy risks
+PIA tools and templates
+Continuous monitoring
+Module 6: Data Subject Rights and Consent
+Right to access, rectification, erasure
+Handling data subject requests
+Consent Management
+Transparency and informed consent
+Module 7: Data Breach Response
+Data Breach Prevention
+Identifying vulnerabilities and threats
+Incident Response planning
+Notification and remediation procedures
+Module 8: Compliance and Technology
+Compliance Strategies
+Internal and external audits
+Impact of AI, IoT, and blockchain
+Future Trends in Data Privacy
+CISSP – The Gold Standard for Cybersecurity Professionals
+The Certified Information Systems Security Professional (CISSP) certification is a prestigious credential for seasoned IT professionals looking to showcase their expertise in designing, implementing, and managing enterprise-level cybersecurity programs.
+🗓️
+100-day Project Plan
+📖
+Well-structured LMS
+🧑‍🏫
+Weekly Live Classes
+Program Mentors
+Learn from industry-leading professionals with real-world expertise
+Manoj Sharma
+Founder and Managing Director, Cybernous Infosec Consulting LLP
+Dr. Ram Kumar G
+Cyber Security and Risk Leader, Global Automotive Major
+Sridhar Govardhan
+Senior Vice President and Head of Information Security, CoinDCX
+Dr. Paras Arora
+Azure Cloud Engineering, Microsoft
+Sandeep Vijayaraghavan K
+Chief Mentor – Cyber & Cloud Security – RACE | EVP – Terralogic Inc.
+Dr. Shinu Abhi
+Professor and Director – Corporate Training, REVA University
+Who Can Participate?
+Any IT professionals aspiring to lead information security and cyber security practices can apply.
+CISSP Certification Requirements:
+ISC2 mandates that candidates must have a minimum of five years of cumulative, full-time experience in two or more of the eight domains of the current CISSP Exam Outline.
+Post-secondary degree may satisfy up to one year of required experience
+Additional ISC2 approved credentials may satisfy up to one year
+Part-time work and internships may count towards experience requirement
+✅ In-Depth Learning: Gain deep understanding of essential IT security areas
+✅ Expert Guidance: Learn from industry-leading professionals
+✅ Exam Success: Training methodology geared towards CISSP exam success
+✅ Practical Application: Apply core IT security concepts effectively
+Ready to Advance Your Cybersecurity Career
+Join our comprehensive program and become a certified cybersecurity professional
+Apply Now
+Download Brochure

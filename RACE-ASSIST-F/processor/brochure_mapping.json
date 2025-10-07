@@ -1,0 +1,44 @@
+{
+  "Business Analytics": {
+    "category": "business analytics brochure - race - reva university",
+    "index_path": "faiss_databases\\business analytics brochure - race - reva university_index.faiss",
+    "metadata_path": "faiss_databases\\business analytics brochure - race - reva university_metadata.pkl",
+    "num_chunks": 9,
+    "pdf_path": "brochures\\Business Analytics Brochure - RACE - REVA University.pdf"
+  },
+  "Cloud Architecture and Security": {
+    "category": "cloud architecture and security brochure - race - reva university 1",
+    "index_path": "faiss_databases\\cloud architecture and security brochure - race - reva university 1_index.faiss",
+    "metadata_path": "faiss_databases\\cloud architecture and security brochure - race - reva university 1_metadata.pkl",
+    "num_chunks": 8,
+    "pdf_path": "brochures\\Cloud Architecture and Security Brochure - RACE - REVA University 1.pdf"
+  },
+  "MSc Cybersecurity": {
+    "category": "msc cybersecurity - september 2025 copy 1",
+    "index_path": "faiss_databases\\msc cybersecurity - september 2025 copy 1_index.faiss",
+    "metadata_path": "faiss_databases\\msc cybersecurity - september 2025 copy 1_metadata.pkl",
+    "num_chunks": 12,
+    "pdf_path": "brochures\\MSc Cybersecurity - September 2025 copy 1.pdf"
+  },
+  "MSc in Artificial Intelligence": {
+    "category": "msc in artificial intelligence sept 2025 copy",
+    "index_path": "faiss_databases\\msc in artificial intelligence sept 2025 copy_index.faiss",
+    "metadata_path": "faiss_databases\\msc in artificial intelligence sept 2025 copy_metadata.pkl",
+    "num_chunks": 9,
+    "pdf_path": "brochures\\MSc in Artificial Intelligence Sept 2025 copy.pdf"
+  },
+  "BA and AI Career Transition": {
+    "category": "reva race ba and ai career transition brochure_2024  1",
+    "index_path": "faiss_databases\\reva race ba and ai career transition brochure_2024  1_index.faiss",
+    "metadata_path": "faiss_databases\\reva race ba and ai career transition brochure_2024  1_metadata.pkl",
+    "num_chunks": 1,
+    "pdf_path": "brochures\\REVA RACE BA and AI Career Transition Brochure_2024  1.pdf"
+  },
+  "CS and CAS Career Transition": {
+    "category": "reva race cs and cas career transition brochure_2024 1",
+    "index_path": "faiss_databases\\reva race cs and cas career transition brochure_2024 1_index.faiss",
+    "metadata_path": "faiss_databases\\reva race cs and cas career transition brochure_2024 1_metadata.pkl",
+    "num_chunks": 4,
+    "pdf_path": "brochures\\REVA RACE CS and CAS Career Transition Brochure_2024 1.pdf"
+  }
+}

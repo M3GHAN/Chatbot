@@ -1,0 +1,248 @@
+PG Programs
+PG Diploma/M.Sc. in
+Business Analytics
+M.Tech. in
+Artificial Intelligence
+PG Diploma/M.Sc. in
+Artificial Intelligence
+M.Tech. in
+Cybersecurity
+PG Diploma/M.Sc. in
+Cybersecurity
+PG Diploma/M.Sc. in
+Cloud Architecture and Security
+Get Certified
+Advanced Diploma in
+Cybersecurity and Privacy Management
+Certified
+DevOps Specialist
+Certified
+Ethical Hacker
+Certified
+Penetration Testing Professional
+Certified
+AI Engineer
+Certification in
+HR Analytics
+RACE Labs
+Consulting
+Events
+Exclusive Webinar on
+Policy as Code Automation for Multi-Cloud Security
+Sports
+REVA Cricket League 2025
+Awards
+Top 10 Women Tech Leaders India Awards
+2023
+Top 10 Women Tech Leaders India Awards
+2022
+Top 10 Women Tech Leaders India Awards
+2021
+Top 10 Women Tech Leaders India Awards
+Past Events
+Mentors
+About RACE
+Contact Us
+Book Your Free Consultation
+Analytics / Data Science
+PG Diploma/M.Sc. in
+Business Analytics
+Certification in
+HR Analytics
+Cybersecurity
+M.Tech. in
+Cybersecurity
+PG Diploma/M.Sc. in
+Cybersecurity
+Certified
+Ethical Hacker
+Certified
+Penetration Testing Professional
+Advanced Diploma in
+Cybersecurity and Privacy Management
+Artificial Intelligence
+M.Tech. in
+Artificial Intelligence
+PG Diploma/M.Sc. in
+Artificial Intelligence
+Certified
+AI Engineer
+Cloud Architecture
+PG Diploma/M.Sc. in
+Cloud Architecture and Security
+Certified
+DevOps Specialist
+Home
+»
+Certified DevOps Specialist with Terraform, Kubernetes, Jenkins, DevSecOps, and AIOps
+Certified
+DevOps Specialist
+with Terraform, Kubernetes, Jenkins,
+DevSecOps, and AIOps
+Download Brochure
+X
+Download Brochure
+Start Date
+21
+st
+June 2025
+Saturday
+Duration
+Total Hours: 60+
+DevOps – 8 Hrs | Terraform, Ansible, Git – 18 Hrs | Docker, Kubernetes, Jenkins – 28 Hrs | DataOps – 12 Hrs
+Sessions
+21
+st
+June 2025 to
+21
+st
+Sep 2025
+Saturday (7 hrs) Batch II /
+Sunday (4 Hrs) Batch III
+Program Fee
+INR 55,000
+Early bird discount
+(on or before June 2
+nd
+):
+INR 50,000
+Apply Now
+Access to
+One-year
+Azure
+access through student ID will be provided.
+Learn the foundational principles and advanced capabilities of these tools to integrate seamlessly with CI/CD pipelines and Infrastructure as Code (IaC) practices.
+The Certified
+DevOps Specialist
+with Terraform, Kubernetes, Jenkins, DevSecOps, and AIOps
+Introduction
+Advance your DevOps career with this industry-aligned, expert-led training program covering DevSecOps, Cloud Fundamentals, Terraform, Kubernetes, Jenkins, GitHub Actions, and emerging practices like DataOps, AIOps, and MLOps. Designed for IT professionals and aspiring DevOps engineers, this hands-on program blends core infrastructure automation with cutting-edge operational intelligence to help you build, deploy, and scale secure cloud-native applications with ease.
+Master the tools that power modern DevOps workflows
+Ebison
+Ebison Duraisingh Daniel
+System Analyst
+AlertOps
+With 8 years in operations and support, the DevOps course at REVA helped build strong fundamentals in tools like Kubernetes, Jenkins, and Ansible. Guided by Papa Rao, the hands-on learning and final project gave the confidence to independently build DevOps solutions.
+Shaik Imran
+Shaik Imran Hussain
+Manager - SAAS Operations And Engineering
+Epsilon
+After completing my postgraduation from REVA RACE, I joined the DevOps Specialist Program to deepen my skills. The sessions, led by Papa Rao, took us from the basics to advanced DevOps with hands-on projects like automated CI/CD using Jenkins. It was a practical, well-guided journey that prepared me for real-world DevOps challenges. I highly recommend it to anyone starting in this field
+Sooraj
+Sooraj Kunhi Valappil
+Development Team Lead
+Voyantt Consultancy Services LLP
+With 9 years in the IT industry as a software engineer, I joined the DevOps course at REVA after finding it on LinkedIn. It was more than just learning—it was hands-on experience with real tools and deployments. Thanks to the guidance from Prof. Papa Rao, I cracked interviews at top companies. I highly recommend this course to anyone serious about DevOps.
+Program Highlights
+Comprehensive Curriculum:
+Covers foundational to advanced topics across DevSecOps, Terraform, Kubernetes, GitHub Actions, Jenkins, and Ansible
+Hands-On Practice:
+Real-world labs and project environments on cloud (AWS/Azure) and on-premise setups
+Career-Oriented Projects:
+Capstone projects with end-to-end deployment using modern DevOps toolchains
+Integrated Workflows:
+CI/CD pipelines, IaC, configuration management, and automation
+Emerging Practices:
+Learn how DevOps evolves into DataOps, AIOps, and MLOps
+Program Highlights
+Comprehensive Curriculum:
+Covers foundational to advanced topics across DevSecOps, Terraform, Kubernetes, GitHub Actions, Jenkins, and Ansible
+Hands-On Practice:
+Real-world labs and project environments on cloud (AWS/Azure) and on-premise setups
+Career-Oriented Projects:
+Capstone projects with end-to-end deployment using modern DevOps toolchains
+Integrated Workflows:
+CI/CD pipelines, IaC, configuration management, and automation
+Emerging Practices:
+Learn how DevOps evolves into DataOps, AIOps, and MLOps
+Who can Attend?
+This program is ideal for:
+IT Professionals
+transitioning to DevOps and automation roles
+Cloud Engineers
+and solution architects streamlining IaC and orchestration
+Developers
+integrating CI/CD, containerization, and GitOps practices
+System Administrators
+aiming to modernize infrastructure management
+Students and Freshers
+with a technical background seeking DevOps careers
+CLICK HERE TO REGISTER
+Detailed Topics
+Module 1: DevSecOps And Cloud Fundamentals (4 Hours)
+DevOps Fundamentals
+Introduction to DevSecOps
+Introduction to Cloud & What’s Virtualisation – Cloud Infrastructure & VMsVirtualisation – DevOps perspective
+What Is Infrastructure as Code?
+Module 2: Terraform (12 Hours)
+Getting Started with Terraform
+Terraform Fundamentals
+Terraform Components
+Terraform Commands
+Advanced Terraform
+Module 3: Git & Git Action (4 Hours)
+Git basics
+Git Hub Actions
+Module 4: Kubernetes and Docker (18 Hours)
+Introduction to Docker and Kubernetes
+Docker Modules
+Docker Installation
+Docker Commands
+Building, Managing, and Sharing Docker Images
+Kubernetes Architecture & Components
+Kubernetes as a service
+Kubernetes Security
+Ansible for Hybrid Environments
+Kubernetes Services
+Kubernetes Scheduling
+Working with Namespaces and Pods
+Storage Management in Kubernetes
+Module 5: Application Lifecycle Management (4 Hours)
+Overview and Deployments
+Application Health Checks
+ConfigMaps and Secrets
+Module 6: Jenkins (8 Hours)
+Installing Jenkins
+Jenkins Core Concepts
+Jenkins and Git Integration
+Jenkins Pipelines (Declarative & Scripted)
+Plugins, Notifications & Reports
+Advanced Use Cases
+Module 7: DataOps, AIOps, & MLOps (12 Hours)
+DataOps lifecycle: Ingest → Process → Validate → Store → Serve
+MLOps Lifecycle: Data → Model Dev → Training → Testing → Deployment → Monitoring
+Use of AI/ML to automate and enhance IT operations
+Focus on incident detection, root cause analysis, and remediation
+Module 8: Capstone Project (8 Hours)
+Building an End-to-End Intelligent Data & ML Operations Pipeline
+Job Opportunities and Roles
+After completing this program, participants can target roles such as
+DevOps Engineer | Cloud Automation Engineer | Kubernetes Administrator | Site Reliability Engineer (SRE) | Site Reliability Engineer (SRE) | Infrastructure Architect | CI/CD Specialist
+Assessment Plan
+Tools
+CLICK HERE TO REGISTER
+Mentor Profile
+Prof. Papa Rao
+Corporate Trainer and DevSecOps Consultant
+Mr. Rao, a distinguished mentor at RACE with 24+ years of experience, excels in various domains, including AWS, Azure, GCP, Openstack, and Complete DevSecOps. He is well-versed in portal technologies like Sharepoint, Weblogic, WebSphere, WebCenter, and Vignette Application Portal, as well as document management systems like Documentum, FileNet, Intervowen, and BizTalk. Mr. Rao’s profound understanding of SOA 11G, WebSphere Process Server, Commerce Server, and Identity and Access Management products like Microsoft Forefront, OracleIM, AM, Siteminder, and TivoliIM, AM makes him an invaluable asset for comprehensive corporate training solutions.
+Final Certification
+Participants who complete all modules and assessments will be awarded the
+“Certified DevOps Specialist in Terraform, Kubernetes, Jenkins & DevSecOps”
+Register Here
+Sample Capstone Projects
+End-to-End Cloud-Native DevSecOps Pipeline
+This project integrates security checks into CI/CD workflows using tools like Jenkins, GitHub Actions, Docker, Kubernetes, and open-source security scanners for continuous compliance and vulnerability management.
+AI/ML Model Deployment with MLOps
+This is to build, containerize, and automate the deployment pipeline using tools like Docker, Kubernetes, and CI/CD workflows to ensure scalable, reliable, and reproducible ML model delivery in a DevOps environment.
+Hybrid Infrastructure Automation
+Automate infrastructure provisioning and management across hybrid environments—combining on-premises and cloud resources. Use tools like Terraform, Ansible, and Kubernetes to create scalable, consistent, and version-controlled infrastructure as code (IaC) for diverse deployment scenarios.
+Sample Capstone Projects
+End-to-End Cloud-Native DevSecOps Pipeline
+This project integrates security checks into CI/CD workflows using tools like Jenkins, GitHub Actions, Docker, Kubernetes, and open-source security scanners for continuous compliance and vulnerability management.
+AI/ML Model Deployment with MLOps
+This is to build, containerize, and automate the deployment pipeline using tools like Docker, Kubernetes, and CI/CD workflows to ensure scalable, reliable, and reproducible ML model delivery in a DevOps environment.
+Hybrid Infrastructure Automation
+Automate infrastructure provisioning and management across hybrid environments—combining on-premises and cloud resources. Use tools like Terraform, Ansible, and Kubernetes to create scalable, consistent, and version-controlled infrastructure as code (IaC) for diverse deployment scenarios.
+Enroll Today!
+Get ready to become a next-gen DevOps professional with capabilities in infrastructure automation, secure deployment, and intelligent operations. Equip yourself with tools that power the world’s leading tech stacks and cloud environments!
+CLICK HERE TO REGISTER

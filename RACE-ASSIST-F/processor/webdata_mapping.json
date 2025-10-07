@@ -1,0 +1,25 @@
+{
+  "unified_database": {
+    "name": "webdata_unified",
+    "index_path": "faiss_databases\\webdata_unified_index.faiss",
+    "metadata_path": "faiss_databases\\webdata_unified_metadata.pkl",
+    "total_chunks": 99,
+    "total_files": 14,
+    "files_processed": [
+      "about_full.txt",
+      "Advanced Diploma in Cybersecurity and Privacy Management_full.txt",
+      "Certified AI Engineer_full.txt",
+      "Certified DevOps Specialist with Terraform, Kubernetes, Jenkins, DevSecOps, and AIOps_full.txt",
+      "Certified Ethical Hacker_full.txt",
+      "Certified Pentesting Professional_full.txt",
+      "contact_full.txt",
+      "home_page_full.txt",
+      "M.Sc. in Business Analytics_full.txt",
+      "M.Tech. in Artificial Intelligence_full.txt",
+      "M.Tech. in Cybersecurity_full.txt",
+      "PG Diploma or M.Sc. in Artificial Intelligence_full.txt",
+      "PG Diploma or M.Sc. in Cybersecurity_full.txt",
+      "PG Diploma or M.Sc. in in Cloud Architecture_full.txt"
+    ]
+  }
+}
